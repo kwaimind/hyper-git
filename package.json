@@ -1,0 +1,14 @@
+{
+  "name": "hyper-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kwaimind/hyper-git.git",
+  "author": "Daniel Reed <danieel.reed@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  },
+  "scripts": {
+    "start": "serve"
+  }
+}
